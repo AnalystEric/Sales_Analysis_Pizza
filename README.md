@@ -2,10 +2,14 @@
 # Project Overview
 Utilise Excel to design an interactive dashboard and SQL to validate the accuracy of each KPI within the dashboard. 
 The objective of the sales analysis is to aid a pizza store in improving its business growth.
-![Screenshot 2023-08-21 at 13 18 26](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/3d50079d-98fa-4e48-b3d2-6bb0c9bb2c85)
+![Screenshot 2023-08-21 at 19 17 37](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/b059704f-119d-4961-b17c-7634eb33d9c9)
 
-We will use SQL to gain quick insights before starting to create the dashboard.
-Once the dashboard is created, we will utilise these queries to verify the accuracy
+
+**We will use SQL to gain quick insights before starting to create the dashboard.**
+
+**SQL queries will be used to verify the accuracy of each KPI.**
+
+
 
 # Excel skills used in this project
 * Power Pivot (for Data Cleaning)
@@ -104,6 +108,12 @@ There is only one worksheet with 12 columns and 48621 records in Excel for this 
 ### 12. What is the top 5 pizza by order throughout the year?
 
 ![Screenshot 2023-08-20 at 17 39 34](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/3340f146-fc27-41b3-8136-b164be5dd780)
+
+### 13.	What are the top 10 pizza orders, quantities, and revenue throughout the year?
+
+
+![Screenshot 2023-08-21 at 19 19 18](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/a3093a91-6619-4da3-bb51-52680a395813)
+
 
 
 
