@@ -2,7 +2,8 @@
 # Project Overview
 Utilise Excel to design an interactive dashboard and MySQL to validate the accuracy of each KPI within the dashboard. 
 The objective of the sales analysis is to aid a pizza store in improving its business growth.
-![Screenshot 2023-08-21 at 19 17 37](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/b059704f-119d-4961-b17c-7634eb33d9c9)
+![Screenshot 2023-08-21 at 23 13 30](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/0f6ded24-107f-4697-ab34-2533b4212a6d)
+
 
 
 **We will use SQL to gain quick insights before starting to create the dashboard.**
@@ -112,7 +113,7 @@ There is only one worksheet with 12 columns and 48621 records in Excel for this 
 
 ![Screenshot 2023-08-20 at 17 39 34](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/3340f146-fc27-41b3-8136-b164be5dd780)
 
-### 13.	What are the top 10 pizza orders, quantities, and revenue throughout the year?
+### 13.	What are the top 10 annual pizza orders, quantities, and revenue?
 
 
 ![Screenshot 2023-08-21 at 19 19 18](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/a3093a91-6619-4da3-bb51-52680a395813)
@@ -124,6 +125,28 @@ There is only one worksheet with 12 columns and 48621 records in Excel for this 
 
 
 
-# Business Insgiht
+# Business Insight & Recommendations for the pizzeria
+**Based on the given data, we will analyse the information to provide recommendations to the pizzeria to enhance its revenue and order numbers.**
+![Daily Trending](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/6587ae5a-c9c6-475e-9569-b52b347250c5)
+1. Since Friday, Saturday, and Sunday have higher order counts, the pizzeria can consider offering weekend-specific promotions or deals.
+2. Monday and Tuesday have slightly lower order counts than the week's latter half. To attract more customers during these days, the pizzeria can consider introducing different promotions, where customers can get extra value for their orders. This could include special offers on family-sized pizzas, combo deals, or discounts on certain menu items during these days.
 
 
+![Percentage of Revenue by Size](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/2fbfd32f-2b0b-4ddc-934e-ab4cf3f4b9a8)
+It is evident that Large pizza occupies the highest proportion of the revenue. 
+1. The pizzeria can create appealing combo deals that include a Regular or Medium pizza along with sides and beverages. Bundling items can increase the average order value and attract customers looking for complete meals.
+2. The pizzeria can develop limited-time pizza creations available exclusively in Regular and Medium sizes. These can spark curiosity and attract customers who want to try something new.
+
+![Hourly Trending](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/b34ebe51-a50b-484e-8243-ad6e952721e6)
+We can observe that the peak time for pizza orders is from 12 to 1 pm and 17 to 19 pm.
+1. During the hours between 2 PM and 4 PM, there is a slight decrease in order counts. To enhance revenue during these hours, the pizzeria can consider introducing snack-sized options, appetizers, or beverages. This can incentivize customers to place orders even outside of the traditional meal times.
+2. For the hours with lower order counts, such as before 11 AM and after 10 PM, the pizzeria can offer incentives like 'buy one, get one free' deals or discounts. These measures can encourage customers to place orders during these off-peak times.
+
+# Conclusion
+Implementing these recommendations can help enhance the revenue and order volume of this pizzeria.
+* Offer weekend-specific promotions or deals.
+* Introduce different promotions on Monday and Tuesday, such as family-sized pizzas, combo deals, or discounts on certain menu items.
+* Create appealing combo deals that include a Regular or Medium pizza along with sides and beverages.
+* Develop limited-time pizza creations available exclusively in Regular and Medium sizes.
+* Introduce snack-sized options, appetizers, or beverages between 2 PM and 4 PM.
+* Offer incentives like 'buy one, get one free deals' or discounts during off-peak times.
