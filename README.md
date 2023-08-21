@@ -4,6 +4,9 @@ Utilise Excel to design an interactive dashboard and SQL to validate the accurac
 The objective of the sales analysis is to aid a pizza store in improving its business growth.
 ![Screenshot 2023-08-21 at 13 18 26](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/3d50079d-98fa-4e48-b3d2-6bb0c9bb2c85)
 
+We will use SQL to gain quick insights before starting to create the dashboard.
+Once the dashboard is created, we will utilise these queries to verify the accuracy
+
 # Excel skills used in this project
 * Power Pivot (for Data Cleaning)
 * Lookup Functions (for identifying the most and least popular pizzas)
@@ -59,7 +62,7 @@ There is only one worksheet with 12 columns and 48621 records in Excel for this 
 
 ![Screenshot 2023-08-20 at 17 34 53](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/b7b485e4-a19c-449d-9701-9ecc6ddb9437)
 
-### 4. What is the number of orders throughout the year?
+### 2. What is the number of orders throughout the year?
 
 ![Screenshot 2023-08-20 at 17 35 31](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/89d72a38-b136-4ed5-b67b-7fe942a88bba)
 
@@ -70,7 +73,7 @@ There is only one worksheet with 12 columns and 48621 records in Excel for this 
 
 ![Screenshot 2023-08-20 at 17 35 07](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/49189741-bfbb-465f-9482-5b715e56bd21)
 
-### 5. What is the total revenue in each month?
+### 5. What is the total revenue for each month?
 
 ![Screenshot 2023-08-20 at 17 35 52](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/d549ab52-8004-4a05-b47b-9d7d7bc5b13f)
 
@@ -90,15 +93,15 @@ There is only one worksheet with 12 columns and 48621 records in Excel for this 
 
 ![Screenshot 2023-08-20 at 17 36 20](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/902fce23-e2f9-45c3-8daf-f51d6eaff5b5)
 
-### 10. What is the most popular pizza by orders throughout the year?
+### 10. What is the most popular pizza by order throughout the year?
 
 ![Screenshot 2023-08-20 at 17 38 12](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/d9f8ff6d-8117-4fec-9cb9-491a0536c0f6)
 
-### 11. What is the less popular pizza by orders throughout the year?
+### 11. What is the less popular pizza by order throughout the year?
 
 ![Screenshot 2023-08-20 at 17 38 31](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/72db2bf6-455d-466f-930d-7ae7a277cb4e)
 
-### 12. What is the top 5 pizza by orders throughout the year?
+### 12. What is the top 5 pizza by order throughout the year?
 
 ![Screenshot 2023-08-20 at 17 39 34](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/3340f146-fc27-41b3-8136-b164be5dd780)
 
