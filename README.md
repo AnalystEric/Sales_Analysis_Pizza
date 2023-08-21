@@ -16,6 +16,7 @@ The objective of this project is to assist a pizza store in improving its busine
 * MySQL
 
 # Excel skills used in this project
+* ETL
 * Power Pivot (for Data Cleaning)
 * Lookup Functions (for identifying the most and least popular pizzas)
 * Text Functions
