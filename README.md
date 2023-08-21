@@ -10,6 +10,9 @@ The objective of the sales analysis is to aid a pizza store in improving its bus
 **SQL queries will be used to verify the accuracy of each KPI.**
 
 
+# Built with
+* Excel
+* MySQL
 
 # Excel skills used in this project
 * Power Pivot (for Data Cleaning)
