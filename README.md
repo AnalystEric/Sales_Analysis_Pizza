@@ -66,7 +66,7 @@ There is only one worksheet with 12 columns and 48621 records in Excel for this 
 
 ![Screenshot 2023-08-20 at 17 35 31](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/89d72a38-b136-4ed5-b67b-7fe942a88bba)
 
-### 3. What is the total sold pizza throughout the year?
+### 3. What is the total pizza sold throughout the year?
 ![Screenshot 2023-08-20 at 17 35 20](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/f7a101cc-4aa0-4d6e-b5a1-0114126b4a87)
 
 ### 4. What is the average value per order?
