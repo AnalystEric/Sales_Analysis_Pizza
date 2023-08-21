@@ -53,4 +53,18 @@ There is only one worksheet with 12 columns and 48621 records in Excel for this 
 
     pizza_name -> The specific name or label given to the pizza option.
 
+# Query Result
+
+### 1. What is the total revenue throughout the year?
+
+![Screenshot 2023-08-20 at 17 34 53](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/b7b485e4-a19c-449d-9701-9ecc6ddb9437)
+
+### 2. What is the average value per order?
+
+![Screenshot 2023-08-20 at 17 35 07](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/49189741-bfbb-465f-9482-5b715e56bd21)
+
+
+
+# Business Insgiht
+
 
