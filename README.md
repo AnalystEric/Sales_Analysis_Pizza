@@ -18,10 +18,7 @@ The objective of this project is to assist a pizzeria in improving its business 
 # Excel skills used in this project
 * ETL
 * Power Pivot (for Data Cleaning)
-* Lookup Formulas (for identifying the most and least popular pizzas)
-* Text Formulas
-* Aggregate Formulas
-* IF Formulas
+* Lookup & Text & Aggregate & IF Formulas
 * Pivot Table
 * Pivot Chart
 * Building KPIs
