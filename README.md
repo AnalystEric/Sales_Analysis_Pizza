@@ -2,8 +2,8 @@
 # Project Overview
 Utilise Excel to design an interactive dashboard and MySQL to validate the accuracy of each KPI within the dashboard. 
 The objective of this project is to assist a pizzeria in improving its business growth.
-![Screenshot 2023-08-21 at 23 13 30](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/0f6ded24-107f-4697-ab34-2533b4212a6d)
 
+![螢幕擷取畫面 (8)](https://github.com/AnalystEric/Sales_Analysis---Pizza/assets/127030648/a8292019-da0e-4699-802d-1a96c91af0f1)
 
 
 **We will use SQL to gain quick insights before starting to create the dashboard.**
