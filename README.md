@@ -136,6 +136,7 @@ It is evident that Large pizza occupies the highest proportion of the revenue.
 2. The pizzeria can develop limited-time pizza creations available exclusively in Regular and Medium sizes. These can spark curiosity and attract customers who want to try something new.
 
 ![螢幕擷取畫面 (8)](https://github.com/AnalystEric/Sales_Analysis_Pizza/assets/127030648/1049ba24-0428-4b64-8137-7985331635d3)
+
 We can observe that the peak time for pizza orders is from 12 to 1 pm and 17 to 19 pm.
 1. During the hours between 2 PM and 4 PM, there is a slight decrease in order counts. To enhance revenue during these hours, the pizzeria can consider introducing snack-sized options, appetizers, or beverages. This can incentivize customers to place orders even outside of the traditional meal times.
 2. For the hours with lower order counts, such as before 11 AM and after 10 PM, the pizzeria can offer incentives like 'buy one, get one free' deals or discounts. These measures can encourage customers to place orders during these off-peak times.
